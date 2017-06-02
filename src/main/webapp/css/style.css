@@ -1,0 +1,1710 @@
+HTML {
+	HEIGHT: 100%
+}
+DIV {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+OL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+FORM {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+IMG {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+LI {
+	LIST-STYLE-TYPE: none
+}
+TABLE {
+	FONT-SIZE: 12px
+}
+INPUT {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial,Helvetica,sans-serif
+}
+P {
+	MARGIN: 0px
+}
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; BACKGROUND: #fff; PADDING-BOTTOM: 0px; MARGIN: 0px; OVERFLOW: hidden; WORD-BREAK: break-all; PADDING-TOP: 0px; FONT-FAMILY: Arial,Helvetica,sans-serif; HEIGHT: 100%
+}
+A:link {
+	COLOR: #42414a; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #42414a; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #999; TEXT-DECORATION: underline
+}
+A:active {
+	COLOR: #999; TEXT-DECORATION: none
+}
+.left {
+	FLOAT: left
+}
+.right {
+	FLOAT: right
+}
+.clear {
+	CLEAR: both
+}
+.none {
+	DISPLAY: none
+}
+DIV.Box {
+	HEIGHT: 100%
+}
+.grey {
+	COLOR: #999
+}
+.blue {
+	COLOR: #115888
+}
+.green {
+	COLOR: #096
+}
+.red {
+	COLOR: #f00
+}
+#TableBody {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; WIDTH: 100%; BORDER-BOTTOM: 0px; BORDER-COLLAPSE: collapse; HEIGHT: 100%
+}
+#TableBody THEAD TR.thead_tr1 {
+	HEIGHT: 40px
+}
+#TableBody THEAD TR.thead_tr2 {
+	HEIGHT: 18px
+}
+#TableBody THEAD TR.thead_tr3 {
+	HEIGHT: 33px
+}
+#TableBody TBODY TR TD DIV#chk_idAll {
+	OVERFLOW-Y: scroll; OVERFLOW-X: hidden; HEIGHT: 100%
+}
+#TableBody TFOOT {
+	HEIGHT: 30px
+}
+.UserPost {
+	Z-INDEX: 999; POSITION: absolute
+}
+.UserPost .dropParagraph {
+	MARGIN: -42px 0px 0px
+}
+.UserPost .dropFontName {
+	MARGIN: -42px 0px 0px
+}
+.UserPost .dropFontSize {
+	MARGIN: -42px 0px 0px
+}
+.Setting TBODY TR TD DIV#chk_idAll {
+	Z-INDEX: 9999; POSITION: relative
+}
+.Setting .dropParagraph {
+	MARGIN: -60px 0px 0px
+}
+.Setting .dropFontName {
+	MARGIN: -60px 0px 0px
+}
+.Setting .dropFontSize {
+	MARGIN: -60px 0px 0px
+}
+TABLE.Setting TBODY TR TD DIV#chk_idAll TABLE.Setting_Content TD .dropFontName SPAN {
+	DISPLAY: inline; COLOR: #000
+}
+#oblog_edit {
+	BORDER-RIGHT: #a6a6a6 1px solid; BORDER-TOP: #a6a6a6 1px solid; BORDER-LEFT: #a6a6a6 1px solid; BORDER-BOTTOM: #a6a6a6 1px solid; BACKGROUND-COLOR: #fff! important
+}
+#oblog_edit UL {
+	MARGIN: 0px
+}
+#oblog_edit UL#ExtToolbar0 {
+	BACKGROUND: url(../images/Skin_onmouseout_bg.gif) repeat-x left top; OVERFLOW: hidden; HEIGHT: 25px
+}
+#oblog_edit UL#ExtToolbar1 {
+	BACKGROUND: url(../images/Skin_onmouseout_bg.gif) repeat-x left top; OVERFLOW: hidden; HEIGHT: 25px
+}
+#oblog_edit UL#ExtToolbar2 {
+	BACKGROUND: url(../images/Skin_onmouseout_bg.gif) repeat-x left top; OVERFLOW: hidden; HEIGHT: 25px
+}
+#oblog_edit UL#ExtToolbar1 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: #a6a6a6 1px solid
+}
+#oblog_edit UL#ExtToolbar1 SELECT {
+	VERTICAL-ALIGN: 1px
+}
+#oblog_edit UL.PostiFrame {
+	HEIGHT: 300px
+}
+#oblog_edit IFRAME.oblog_Composition {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; WIDTH: 100%! important; BORDER-BOTTOM: medium none
+}
+#oblog_edit .oblog_Reply {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none
+}
+#oblog_edit .oblog_Btn {
+	
+}
+#oblog_edit .oblog_BtnMouseOverUp {
+	BACKGROUND-COLOR: #fff! important
+}
+#oblog_edit UL#oblog_Tab {
+	PADDING-RIGHT: 0px; BORDER-TOP: #a6a6a6 1px solid; PADDING-LEFT: 10px; BACKGROUND: #d9d6cf; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#oblog_edit UL#oblog_Tab A {
+	TEXT-DECORATION: none! important
+}
+#oblog_edit UL#oblog_Tab LI.MinusAndPlus {
+	WIDTH: 390px! important
+}
+#oblog_edit UL#oblog_Tab LI.MinusAndPlus IMG {
+	VERTICAL-ALIGN: -2px
+}
+#oblog_edit LI.oblog_TabOn {
+	BORDER-RIGHT: #a6a6a6 1px solid; PADDING-RIGHT: 5px! important; BORDER-TOP: medium none; PADDING-LEFT: 5px! important; PADDING-BOTTOM: 0px! important; BORDER-LEFT: #a6a6a6 1px solid; PADDING-TOP: 4px! important; BORDER-BOTTOM: #a6a6a6 1px solid; POSITION: relative; TOP: -1px; BACKGROUND-COLOR: #fff! important
+}
+#oblog_edit LI.oblog_TabOff {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none
+}
+.Search {
+	PADDING-RIGHT: 0px; BORDER-TOP: #83b5cd 1px solid; PADDING-LEFT: 10px; BACKGROUND: url(../images/user_post_top_bg.png) #dee8f2 repeat-x left 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 4px; HEIGHT: 30px
+}
+.msg {
+	BORDER-RIGHT: #c3c370 1px solid; PADDING-RIGHT: 15px; BORDER-TOP: #ebeba9 1px solid; MARGIN-TOP: -50px; PADDING-LEFT: 15px; BACKGROUND: url(../images/BoxOver_bd.png) #ffffe0 repeat-x left bottom; LEFT: 50%; PADDING-BOTTOM: 15px; MARGIN-LEFT: -100px; BORDER-LEFT: #ebeba9 1px solid; COLOR: #f00; PADDING-TOP: 15px; BORDER-BOTTOM: #c3c370 1px solid; POSITION: absolute; TOP: 50%; TEXT-ALIGN: center
+}
+#space {
+	
+}
+#space TABLE {
+	BORDER-RIGHT: #83b5cd 1px solid; BORDER-TOP: #83b5cd 1px solid; BORDER-LEFT: #83b5cd 1px solid; WIDTH: 100%; BORDER-BOTTOM: #83b5cd 1px solid; BORDER-COLLAPSE: collapse
+}
+#space TABLE TR TD.used {
+	BACKGROUND: url(../images/used.png) repeat-x; HEIGHT: 12px
+}
+#space UL {
+	
+}
+#UserMenu {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; BACKGROUND: url(../images/user_post_top_bg.png) repeat-x left bottom; PADDING-BOTTOM: 0px; PADDING-TOP: 9px; BORDER-BOTTOM: #83b5cd 1px solid; HEIGHT: 42px
+}
+#UserMenu LI {
+	BACKGROUND: url(../images/user_btu_left.png) no-repeat left top; FLOAT: left; MARGIN: 0px 15px 0px 0px
+}
+#UserMenu LI A {
+	PADDING-RIGHT: 10px; DISPLAY: block; PADDING-LEFT: 10px; FONT-WEIGHT: 400; BACKGROUND: url(../images/user_btu_right.png) no-repeat right top; PADDING-BOTTOM: 4px; COLOR: #104369; PADDING-TOP: 6px
+}
+#UserMenu LI A:hover {
+	COLOR: #17649d
+}
+LI#showpage {
+	RIGHT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; POSITION: absolute; TOP: 10px
+}
+#showpage SELECT {
+	FONT-SIZE: 12px
+}
+TABLE.ListTop {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(../images/content_l5U_top.png) #f1f6f9 repeat-x left bottom; PADDING-BOTTOM: 0px; WIDTH: 100%; LINE-HEIGHT: 10px; PADDING-TOP: 3px; BORDER-BOTTOM: #83b5cd 1px solid
+}
+TABLE.ListTop TR TD.scroll {
+	VISIBILITY: hidden; WIDTH: 14px
+}
+TABLE.TableList {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; WIDTH: 100%; BORDER-BOTTOM: 0px; BORDER-COLLAPSE: collapse
+}
+FIELDSET.FieldsetForm {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; MARGIN: 25px; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none
+}
+FIELDSET.FieldsetForm LEGEND {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; FONT-WEIGHT: 600; FONT-SIZE: 18px; PADDING-BOTTOM: 5px; MARGIN: 0px 0px 10px; COLOR: #333; PADDING-TOP: 0px; BORDER-BOTTOM: #115888 2px dashed
+}
+FIELDSET.FieldsetForm UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+FIELDSET.FieldsetForm UL LI {
+	MARGIN: 0px 0px 6px
+}
+FIELDSET.FieldsetForm UL LI INPUT#Submit {
+	MARGIN: 10px 0px 0px; HEIGHT: 30px
+}
+.ubb_content {
+	BORDER-RIGHT: #aeaeae 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #aeaeae 1px solid; PADDING-LEFT: 10px; BACKGROUND: #f4f4f4; PADDING-BOTTOM: 10px; MARGIN: 10px 0px 0px; BORDER-LEFT: #aeaeae 1px solid; WIDTH: 80%; PADDING-TOP: 10px; BORDER-BOTTOM: #aeaeae 1px solid
+}
+.ubb_content .quote {
+	BORDER-RIGHT: #c3c370 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #ebeba9 1px solid; PADDING-LEFT: 5px; BACKGROUND: url(../images/BoxOver_bd.png) #ffffe0 repeat-x left bottom; PADDING-BOTTOM: 5px; MARGIN: 10px 0px 0px; BORDER-LEFT: #ebeba9 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: #c3c370 1px solid
+}
+IMG.face {
+	WIDTH: 48px; HEIGHT: 48px
+}
+A.user_icon {
+	
+}
+A.user_icon IMG {
+	BORDER-RIGHT: #dedede 1px solid; BORDER-TOP: #dedede 1px solid; BORDER-LEFT: #dedede 1px solid; WIDTH: 24px; BORDER-BOTTOM: #dedede 1px solid; HEIGHT: 24px
+}
+A.user_icon:hover IMG {
+	BORDER-RIGHT: #42414a 1px solid; BORDER-TOP: #42414a 1px solid; BORDER-LEFT: #42414a 1px solid; BORDER-BOTTOM: #42414a 1px solid
+}
+.t_ico {
+	WIDTH: 120px; HEIGHT: 90px
+}
+.dvhdr1 {
+	
+}
+.dvbdy1 {
+	BORDER-RIGHT: #c3c370 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #ebeba9 1px solid; PADDING-LEFT: 5px; BACKGROUND: url(../images/BoxOver_bd.png) #ffffe0 repeat-x left top; PADDING-BOTTOM: 5px; OVERFLOW: hidden; BORDER-LEFT: #ebeba9 1px solid; WIDTH: 300px; LINE-HEIGHT: 1.5; PADDING-TOP: 5px; BORDER-BOTTOM: #c3c370 1px solid; HEIGHT: 150px
+}
+#prompt {
+	BORDER-RIGHT: #1d78b8 1px solid; PADDING-RIGHT: 15px; BORDER-TOP: #a4d5ee 1px solid; MARGIN-TOP: -150px; PADDING-LEFT: 15px; BACKGROUND: url(../images/user_post_top_bg.png) #f7fafb repeat-x left bottom; LEFT: 50%; PADDING-BOTTOM: 15px; MARGIN-LEFT: -250px; BORDER-LEFT: #a4d5ee 1px solid; COLOR: #f00; PADDING-TOP: 15px; BORDER-BOTTOM: #1d78b8 1px solid; POSITION: absolute; TOP: 50%
+}
+#prompt UL {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px
+}
+#prompt UL LI {
+	CLEAR: both; BACKGROUND: url(../images/user_btu_left.png) no-repeat left top; FLOAT: left; MARGIN: 0px 0px 10px 10px
+}
+#prompt A {
+	PADDING-RIGHT: 10px; DISPLAY: block; PADDING-LEFT: 10px; FONT-WEIGHT: 400; BACKGROUND: url(../images/user_btu_right.png) no-repeat right top; PADDING-BOTTOM: 4px; COLOR: #104369; PADDING-TOP: 6px
+}
+#prompt A:hover {
+	COLOR: #17649d
+}
+.progress1 {
+	BORDER-RIGHT: #a4d5ee 1px solid; BORDER-TOP: #69b1e7 1px solid; MARGIN-TOP: 5px; BACKGROUND: #fff; MARGIN-BOTTOM: 10px; OVERFLOW: hidden; BORDER-LEFT: #69b1e7 1px solid; WIDTH: 464px; BORDER-BOTTOM: #a4d5ee 1px solid; HEIGHT: 28px; TEXT-ALIGN: left
+}
+.progress2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; FONT-SIZE: 16px; BACKGROUND: #e5f5ff; PADDING-BOTTOM: 0px; MARGIN: 1px; PADDING-TOP: 2px; FONT-FAMILY: tahoma,Arial,Helvetica,sans-serif; HEIGHT: 24px; TEXT-ALIGN: left
+}
+TABLE#IndexFrame {
+	
+}
+#IndexFrame TR TD.t1 {
+	VERTICAL-ALIGN: top
+}
+#IndexFrame TR TD.t1 #Welcome {
+	CLEAR: both; FONT-SIZE: 14px; MARGIN: 10px 15px 0px; LINE-HEIGHT: 1.7
+}
+#IndexFrame TR TD.t1 UL.Login {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 5px; PADDING-TOP: 0px
+}
+#IndexFrame TR TD.t1 UL.NewInfo {
+	PADDING-RIGHT: 0px; BORDER-TOP: #83b5cd 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 10px
+}
+#IndexFrame TR TD.t1 UL.NewInfo LI {
+	MARGIN: 0px 0px 7px
+}
+#IndexFrame TR TD.t1 #InfoTemplate {
+	MARGIN: 27px 7px 7px
+}
+#IndexFrame TR TD.t1 #InfoTemplate .Info {
+	BORDER-RIGHT: #83b5cd 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #83b5cd 1px solid; PADDING-LEFT: 4px; BACKGROUND: #f2f7f9; FLOAT: left; PADDING-BOTTOM: 4px; MARGIN: 0px 7px 0px 0px; BORDER-LEFT: #83b5cd 1px solid; WIDTH: 225px; PADDING-TOP: 4px; BORDER-BOTTOM: #83b5cd 1px solid
+}
+#IndexFrame TR TD.t1 #InfoTemplate .Info .UserInfo {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; BACKGROUND: #fff; PADDING-BOTTOM: 10px; MARGIN: 0px; LINE-HEIGHT: 1.6; PADDING-TOP: 10px
+}
+#IndexFrame TR TD.t1 #InfoTemplate .Info .UserInfo LI {
+	
+}
+#IndexFrame TR TD.t1 #InfoTemplate .Info .UserInfo LI.l1 {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 1px; BACKGROUND: url(../images/UserIco_bg.png) no-repeat left top; FLOAT: left; PADDING-BOTTOM: 1px; WIDTH: 56px; PADDING-TOP: 1px; HEIGHT: 56px
+}
+#IndexFrame TR TD.t1 #InfoTemplate .Info .UserInfo LI.l5 {
+	DISPLAY: none
+}
+#IndexFrame TR TD.t1 #InfoTemplate .Info .UserInfo LI.l6 {
+	DISPLAY: none
+}
+#IndexFrame TR TD.t1 #InfoTemplate .Info .BlogInfo {
+	CLEAR: both; PADDING-RIGHT: 10px; PADDING-LEFT: 10px; BACKGROUND: #fff; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#IndexFrame TR TD.t1 #InfoTemplate .Info .BlogInfo LI {
+	LINE-HEIGHT: 1.8
+}
+#IndexFrame TR TD.t1 #InfoTemplate .Info #space {
+	CLEAR: both; PADDING-RIGHT: 10px; PADDING-LEFT: 10px; BACKGROUND: #fff; PADDING-BOTTOM: 10px; WIDTH: 215px; PADDING-TOP: 10px
+}
+#IndexFrame TR TD.t1 #InfoTemplate .Info #space TABLE {
+	MARGIN: 0px 0px 5px
+}
+#IndexFrame TR TD.t1 #InfoTemplate .Info #space LI {
+	LINE-HEIGHT: 1.8
+}
+#IndexFrame TR TD.t1 #InfoTemplate .Template {
+	FLOAT: left; WIDTH: auto
+}
+#IndexFrame TR TD.t1 #InfoTemplate .Template UL {
+	FLOAT: left; MARGIN: 10px 0px 20px; WIDTH: 220px
+}
+#IndexFrame TR TD.t1 #InfoTemplate .Template UL LI {
+	TEXT-ALIGN: center
+}
+#IndexFrame TR TD.t1 #InfoTemplate .Template UL LI.img {
+	
+}
+#IndexFrame TR TD.t1 #InfoTemplate .Template UL LI.img A {
+	PADDING-RIGHT: 1px; DISPLAY: block; PADDING-LEFT: 1px; BACKGROUND: url(../images/Template_bg.png) no-repeat left top; PADDING-BOTTOM: 1px; MARGIN: auto; WIDTH: 156px; PADDING-TOP: 1px; HEIGHT: 96px; TEXT-ALIGN: left
+}
+#IndexFrame TR TD.t1 #InfoTemplate .Template UL LI.img A IMG {
+	WIDTH: 150px; HEIGHT: 90px
+}
+#IndexFrame TR TD.t1 #InfoTemplate .Template UL LI.name {
+	
+}
+#IndexFrame TR TD.t1 #InfoTemplate .Template UL LI.name A {
+	
+}
+#IndexFrame TR TD.t2 {
+	VERTICAL-ALIGN: top; WIDTH: 320px
+}
+#IndexFrame TR TD.t2 #SitePlacard {
+	BORDER-RIGHT: #83b5cd 1px solid; BORDER-TOP: #83b5cd 1px solid; BACKGROUND: #fff; MARGIN: 7px 7px 0px 0px; BORDER-LEFT: #83b5cd 1px solid; BORDER-BOTTOM: #83b5cd 1px solid
+}
+#IndexFrame TR TD.t2 #SitePlacard .top {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; BACKGROUND: url(../images/user_post_top_bg.png) #e8eff5 repeat-x left -15px; PADDING-BOTTOM: 6px; PADDING-TOP: 8px; BORDER-BOTTOM: #b8d5e2 1px solid; LETTER-SPACING: 3px
+}
+#IndexFrame TR TD.t2 #SitePlacard .content {
+	PADDING-RIGHT: 7px; OVERFLOW-Y: auto; PADDING-LEFT: 7px; OVERFLOW-X: hidden; PADDING-BOTTOM: 7px; LINE-HEIGHT: 1.8; PADDING-TOP: 7px; HEIGHT: 227px
+}
+#IndexFrame TR TD.t2 #SitePlacard .content P {
+	MARGIN: 1em 0px 0.5em
+}
+#IndexFrame TR TD.t2 #SitePlacard .content A {
+	COLOR: #07519a; TEXT-DECORATION: underline
+}
+#IndexFrame TR TD.t2 #SitePlacard .content A:hover {
+	TEXT-DECORATION: none
+}
+#IndexFrame TR TD.t2 #AD {
+	MARGIN: 8px 8px 8px 0px
+}
+#IndexFrame TR TD.t2 #btu {
+	BORDER-RIGHT: #83b5cd 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #83b5cd 1px solid; PADDING-LEFT: 5px; BACKGROUND: #f2f7f9; PADDING-BOTTOM: 5px; MARGIN: 0px 8px 0px 0px; BORDER-LEFT: #83b5cd 1px solid; WIDTH: 301px; PADDING-TOP: 5px; BORDER-BOTTOM: #83b5cd 1px solid; HEIGHT: 78px
+}
+#IndexFrame TR TD.t2 #btu UL {
+	BACKGROUND: #fff; WIDTH: 301px; HEIGHT: 58px
+}
+#IndexFrame TR TD.t2 #btu UL LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 13px; BACKGROUND: url(../images/Folder_bigbtu.png) no-repeat -297px -97px; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 100px; PADDING-TOP: 9px; HEIGHT: 34px
+}
+#IndexFrame TR TD.t2 #btu UL LI A {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 20px; PADDING-BOTTOM: 0px; COLOR: #115888; PADDING-TOP: 2px
+}
+#IndexFrame TR TD.t2 #btu UL LI A:hover {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+#IndexFrame TR TD.t2 #btu UL LI.l1 A {
+	BACKGROUND: url(../images/ico.gif) no-repeat left -120px
+}
+#IndexFrame TR TD.t2 #btu UL LI.l2 A {
+	BACKGROUND: url(../images/ico.gif) no-repeat left -141px
+}
+#IndexFrame TR TD.t2 #btu UL LI.l3 A {
+	BACKGROUND: url(../images/ico.gif) no-repeat -1050px -141px
+}
+#IndexFrame TR TD.t2 #btu UL LI.l4 A {
+	BACKGROUND: url(../images/ico.gif) no-repeat -1050px -160px
+}
+#IndexFrame TR TD.t2 #btu UL LI.l5 A {
+	BACKGROUND: url(../images/ico.gif) no-repeat -1050px -180px
+}
+#IndexFrame TR TD.t2 #btu UL LI.l6 A {
+	BACKGROUND: url(../images/ico.gif) no-repeat -1050px -200px
+}
+.win_top {
+	FONT-WEIGHT: 900; BACKGROUND: url(../images/win_top.png) repeat-x left top; CURSOR: move; COLOR: white
+}
+.win_message P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#xMsg1 .win_message .win_table1 {
+	WIDTH: 100%
+}
+#xMsg1 .win_message .win_table1 TD {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+#xMsg1 .win_message .win_table1 .win_table1_td {
+	BORDER-RIGHT: #fff 1px solid; BORDER-TOP: #fff 1px solid; FONT-WEIGHT: 900; BORDER-LEFT: #fff 1px solid; COLOR: #333; BORDER-BOTTOM: #fff 1px solid; TEXT-ALIGN: right
+}
+.win_message P {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px
+}
+.win_table P {
+	MARGIN: 5px 0px
+}
+.win_table .win_table_top {
+	FONT-WEIGHT: 900; BACKGROUND: url(../images/win_top.png) repeat-x left top; COLOR: white; TEXT-ALIGN: left
+}
+.win_table .win_table_end {
+	TEXT-ALIGN: right
+}
+.win_table {
+	BORDER-RIGHT: #448ec1 1px solid; BORDER-TOP: #448ec1 1px solid; BACKGROUND: #e4f4fc; BORDER-LEFT: #448ec1 1px solid; WIDTH: 440px; BORDER-BOTTOM: #448ec1 1px solid
+}
+.win_table TD {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; BACKGROUND: #fff; PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+.win_table .win_table_td {
+	BORDER-RIGHT: #fff 1px solid; BORDER-TOP: #fff 1px solid; FONT-WEIGHT: 900; BACKGROUND: #f5fbff; BORDER-LEFT: #fff 1px solid; COLOR: #333; BORDER-BOTTOM: #fff 1px solid; TEXT-ALIGN: right
+}
+#swin2 IFRAME {
+	WIDTH: 300px
+}
+.win_update_table {
+	BORDER-RIGHT: #448ec1 1px solid; BORDER-TOP: #448ec1 1px solid; BACKGROUND: #e4f4fc; MARGIN: 20px auto; BORDER-LEFT: #448ec1 1px solid; WIDTH: 60%; BORDER-BOTTOM: #448ec1 1px solid
+}
+.win_update_table .win_update_table_top {
+	FONT-WEIGHT: 900; BACKGROUND: url(../images/win_top.png) repeat-x left top; COLOR: white; TEXT-ALIGN: left
+}
+.win_update_table TD {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; BACKGROUND: #fff; PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+.win_update_table P {
+	MARGIN: 5px 0px 0px
+}
+.win_update_table P.red {
+	COLOR: #f30
+}
+.win_update_table .win_update_table_td {
+	BORDER-RIGHT: #fff 1px solid; BORDER-TOP: #fff 1px solid; FONT-WEIGHT: 900; BACKGROUND: #f5fbff; BORDER-LEFT: #fff 1px solid; WIDTH: 35%; COLOR: #333; BORDER-BOTTOM: #fff 1px solid; TEXT-ALIGN: right
+}
+.win_update_table .win_update1_table_td {
+	BORDER-RIGHT: #fff 1px solid; BORDER-TOP: #fff 1px solid; FONT-WEIGHT: 900; BACKGROUND: #f5fbff; BORDER-LEFT: #fff 1px solid; WIDTH: 70%; COLOR: #333; BORDER-BOTTOM: #fff 1px solid; TEXT-ALIGN: right
+}
+.win_pm_table {
+	
+}
+.win_pm_table {
+	BORDER-RIGHT: #448ec1 1px solid; BORDER-TOP: #448ec1 1px solid; BACKGROUND: #e4f4fc; MARGIN: 20px auto; BORDER-LEFT: #448ec1 1px solid; WIDTH: 90%; BORDER-BOTTOM: #448ec1 1px solid
+}
+.win_pm_table .win_pm_table_top {
+	FONT-WEIGHT: 900; BACKGROUND: url(../images/win_top.png) repeat-x left top; COLOR: white; TEXT-ALIGN: left
+}
+.win_pm_table TD {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; BACKGROUND: #fff; PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+.win_pm_table P {
+	MARGIN: 5px 0px 0px
+}
+.win_pm_table P.red {
+	COLOR: #f30
+}
+.win_pm_table .win_pm_table_td {
+	BORDER-RIGHT: #fff 1px solid; BORDER-TOP: #fff 1px solid; FONT-WEIGHT: 900; BACKGROUND: #f5fbff; BORDER-LEFT: #fff 1px solid; WIDTH: 35%; COLOR: #333; BORDER-BOTTOM: #fff 1px solid; TEXT-ALIGN: right
+}
+.win_user_team_table {
+	BORDER-RIGHT: #448ec1 1px solid; BORDER-TOP: #448ec1 1px solid; BACKGROUND: #e4f4fc; MARGIN: 20px auto; BORDER-LEFT: #448ec1 1px solid; WIDTH: 90%; BORDER-BOTTOM: #448ec1 1px solid
+}
+.win_user_team_table A {
+	COLOR: #069; TEXT-DECORATION: none
+}
+.win_user_team_table A:hover {
+	TEXT-DECORATION: underline
+}
+.win_user_team_table .win_user_team_table_top {
+	FONT-WEIGHT: 900; BACKGROUND: url(../images/win_top.png) repeat-x left top; COLOR: white; TEXT-ALIGN: left
+}
+.win_user_team_table TD {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; BACKGROUND: #fff; PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+.win_user_team_table .win_user_team_table_td {
+	BORDER-RIGHT: #fff 1px solid; BORDER-TOP: #fff 1px solid; FONT-WEIGHT: 900; BACKGROUND: #f5fbff; BORDER-LEFT: #fff 1px solid; WIDTH: 20%; COLOR: #333; BORDER-BOTTOM: #fff 1px solid; TEXT-ALIGN: right
+}
+TABLE#UserPost {
+	TABLE-LAYOUT: fixed; WIDTH: 100%; BORDER-COLLAPSE: collapse; HEIGHT: 100%; min-width: 800px
+}
+TABLE#UserPost TR TD {
+	VERTICAL-ALIGN: top
+}
+TABLE#UserPost TR TD.t1 {
+	
+}
+TABLE#UserPost TR TD.t1 DIV.d1 {
+	MARGIN: 20px 0px 0px 20px; WIDTH: 560px; WHITE-SPACE: nowrap; TEXT-OVERFLOW: ellipsis
+}
+TABLE#UserPost TR TD.t1 DIV.d1 SPAN {
+	LETTER-SPACING: 6px
+}
+TABLE#UserPost TR TD.t1 DIV.d2 SPAN {
+	LETTER-SPACING: 6px
+}
+TABLE#UserPost TR TD.t1 DIV.d1 INPUT {
+	BORDER-RIGHT: #1b76b7 1px solid; BORDER-TOP: #1b76b7 1px solid; FONT-SIZE: 13px; BACKGROUND: url(../images/BoxOver_bd.png) #ffffe0 repeat-x left bottom; VERTICAL-ALIGN: -2px; BORDER-LEFT: #1b76b7 1px solid; WIDTH: 310px; BORDER-BOTTOM: #1b76b7 1px solid; HEIGHT: 22px
+}
+TABLE#UserPost TR TD.t1 DIV.d2 {
+	MARGIN: 10px 0px 0px 20px; WIDTH: 560px
+}
+TABLE#UserPost TR TD.t1 DIV.d2 INPUT#logtags {
+	BORDER-RIGHT: medium none; BORDER-TOP: #1b76b7 1px solid; FONT-SIZE: 13px; VERTICAL-ALIGN: -1px; BORDER-LEFT: #1b76b7 1px solid; WIDTH: 292px; BORDER-BOTTOM: #1b76b7 1px solid; HEIGHT: 22px
+}
+TABLE#UserPost TR TD.t1 DIV.d2 #usedtags {
+	VERTICAL-ALIGN: 1px; OVERFLOW: hidden; WIDTH: 18px; HEIGHT: 24px
+}
+TABLE#UserPost TR TD.t1 DIV.d2 #usedtags IMG {
+	VERTICAL-ALIGN: middle
+}
+TABLE#UserPost TR TD.t1 DIV.d2 #logtags_used {
+	BORDER-RIGHT: #ddd 1px solid; BORDER-TOP: #ddd 1px solid; OVERFLOW-Y: auto; Z-INDEX: 9999; BACKGROUND: #fff; LEFT: 55px; VISIBILITY: hidden; OVERFLOW-X: hidden; BORDER-LEFT: #ddd 1px solid; WIDTH: 311px; BORDER-BOTTOM: #ddd 1px solid; POSITION: absolute; TOP: 77px; ; HEIGHT: expression(this.height > 200 ? 200: true)
+}
+TABLE#UserPost TR TD.t1 DIV.d2 #logtags_used A {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 4px; PADDING-BOTTOM: 1px; OVERFLOW: hidden; WIDTH: 311px; PADDING-TOP: 3px; WHITE-SPACE: nowrap; TEXT-OVERFLOW: ellipsis; TEXT-DECORATION: none
+}
+TABLE#UserPost TR TD.t1 DIV.d2 #logtags_used A:hover {
+	BACKGROUND: #115888; COLOR: #fff
+}
+TABLE#UserPost TR TD.t1 DIV.d2 A {
+	COLOR: #115888; TEXT-DECORATION: underline
+}
+TABLE#UserPost TR TD.t1 DIV.d2 A:hover {
+	COLOR: #115888; TEXT-DECORATION: none
+}
+TABLE#UserPost TR TD.t1 DIV.d2 TEXTAREA {
+	CURSOR: text
+}
+TABLE#UserPost TR TD.t1 DIV.d3 {
+	MARGIN: 10px 0px 0px 20px
+}
+TABLE#UserPost TR TD.t1 DIV.d3 #loadedit {
+	DISPLAY: block; COLOR: #f00
+}
+TABLE#UserPost TR TD.t1 DIV.d4 {
+	MARGIN: 10px 0px 0px 20px
+}
+TABLE#UserPost TR TD.t1 DIV.d4 INPUT {
+	BORDER-RIGHT: #1b76b7 1px solid; BORDER-TOP: #1b76b7 1px solid; BORDER-LEFT: #1b76b7 1px solid; BORDER-BOTTOM: #1b76b7 1px solid; HEIGHT: 22px
+}
+TABLE#UserPost TR TD.t1 DIV.d4 IMG#ob_codeimg {
+	MARGIN: 1px 0px 0px
+}
+TABLE#UserPost TR TD.t1 DIV.d5 {
+	MARGIN: 10px 0px 20px 20px; WIDTH: 560px
+}
+TABLE#UserPost TR TD.t1 DIV.d5 INPUT {
+	HEIGHT: 30px
+}
+TABLE#UserPost TR TD.t1 DIV.d5 #save_ing {
+	BORDER-RIGHT: #c3c370 1px solid; PADDING-RIGHT: 15px; BORDER-TOP: #ebeba9 1px solid; DISPLAY: block; PADDING-LEFT: 15px; BACKGROUND: url(../images/BoxOver_bd.png) #ffffe0 repeat-x left bottom; PADDING-BOTTOM: 5px; BORDER-LEFT: #ebeba9 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: #c3c370 1px solid
+}
+TABLE#UserPost TR TD.t2 {
+	BACKGROUND: #fff; WIDTH: 10px
+}
+TABLE#UserPost TR TD.t2 DIV#close {
+	MARGIN: 88px 0px 0px; CURSOR: pointer
+}
+TABLE#UserPost TR TD.t3 {
+	WIDTH: 150px
+}
+TABLE#UserPost TR TD.t3 DIV#group {
+	BORDER-RIGHT: #83b5cd 1px solid; BORDER-TOP: #83b5cd 1px solid; MARGIN: 88px 0px 0px; BORDER-LEFT: #83b5cd 1px solid; WIDTH: 142px; BORDER-BOTTOM: #83b5cd 1px solid; HEIGHT: 240px
+}
+TABLE#UserPost TR TD.t3 DIV#group DIV {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 8px; BACKGROUND: url(../images/user_post_top_bg.png) #e8eff5 repeat-x left top; PADDING-BOTTOM: 2px; PADDING-TOP: 6px; BORDER-BOTTOM: #b8d5e2 1px dashed
+}
+TABLE#UserPost TR TD.t3 DIV#group UL {
+	
+}
+TABLE#UserPost TR TD.t3 DIV#group UL LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 3px; PADDING-BOTTOM: 2px; PADDING-TOP: 1px
+}
+TABLE.UserPost DIV#swin1 {
+	LEFT: 10px
+}
+TABLE.UserPost DIV#swin2 {
+	LEFT: 93px
+}
+TABLE.UserPost DIV#swin2 TEXTAREA {
+	WIDTH: 500px
+}
+TABLE.UserPost DIV#swin3 {
+	LEFT: 176px
+}
+TABLE.UserPost DIV#swin4 {
+	LEFT: 259px
+}
+TABLE.UserPost DIV#chk_idAll {
+	OVERFLOW-Y: auto! important
+}
+UL#Upload {
+	MARGIN: 20px 0px 20px 20px
+}
+UL#Upload LI {
+	MARGIN: 0px 0px 10px
+}
+UL#Upload LI SPAN {
+	WIDTH: 30px; LETTER-SPACING: 6px
+}
+UL#Upload LI.l1 {
+	WIDTH: 560px
+}
+UL#Upload LI.l1 INPUT {
+	BORDER-RIGHT: #1b76b7 1px solid; BORDER-TOP: #1b76b7 1px solid; FONT-SIZE: 13px; BACKGROUND: url(../images/BoxOver_bd.png) #ffffe0 repeat-x left bottom; VERTICAL-ALIGN: -2px; BORDER-LEFT: #1b76b7 1px solid; WIDTH: 310px; BORDER-BOTTOM: #1b76b7 1px solid; HEIGHT: 22px
+}
+UL#Upload LI.l1 #photoclass {
+	COLOR: #115888
+}
+UL#Upload LI.l2 INPUT#uploadfile {
+	BORDER-RIGHT: #1b76b7 1px solid; BORDER-TOP: #1b76b7 1px solid; FONT-SIZE: 13px; VERTICAL-ALIGN: -2px; BORDER-LEFT: #1b76b7 1px solid; WIDTH: 310px; BORDER-BOTTOM: #1b76b7 1px solid; HEIGHT: 22px
+}
+UL#Upload LI.l2 FONT.blue {
+	TEXT-TRANSFORM: uppercase
+}
+UL#Upload LI.l3 SPAN {
+	VERTICAL-ALIGN: 62px
+}
+UL#Upload LI.l3 TEXTAREA {
+	BORDER-RIGHT: #1b76b7 1px solid; BORDER-TOP: #1b76b7 1px solid; FONT-SIZE: 13px; VERTICAL-ALIGN: -2px; BORDER-LEFT: #1b76b7 1px solid; WIDTH: 400px; BORDER-BOTTOM: #1b76b7 1px solid
+}
+UL#Upload LI.l5 INPUT {
+	HEIGHT: 30px
+}
+#BlogManageTop TR TD.t1 {
+	WIDTH: 30px
+}
+#BlogManageTop TR TD.t2 {
+	WIDTH: 60px
+}
+#BlogManageTop TR TD.t4 {
+	WIDTH: 75px; TEXT-ALIGN: center
+}
+#BlogManageTop TR TD.t5 {
+	WIDTH: 100px; TEXT-ALIGN: center
+}
+#BlogManage TR TD {
+	BORDER-BOTTOM: #eee 1px solid; HEIGHT: 39px
+}
+#BlogManage TR TD.t1 {
+	WIDTH: 30px; TEXT-ALIGN: center
+}
+#BlogManage TR TD.t2 {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; VERTICAL-ALIGN: top; WIDTH: 60px; COLOR: #096; PADDING-TOP: 5px; TEXT-ALIGN: right
+}
+#BlogManage TR TD.t3 .grey {
+	CURSOR: pointer
+}
+#BlogManage TR TD.t3 A {
+	FONT-WEIGHT: 600; COLOR: #104369
+}
+#BlogManage TR TD.t3 A:hover {
+	COLOR: #3488c3
+}
+#BlogManage TR TD.t3 .time {
+	FONT-SIZE: 11px; COLOR: #666
+}
+#BlogManage TR TD.t4 {
+	FONT-SIZE: 11px; WIDTH: 80px; COLOR: #888; TEXT-ALIGN: center
+}
+#BlogManage TR TD.t5 {
+	WIDTH: 100px; TEXT-ALIGN: center
+}
+#FriendsTop TR TD.t1 {
+	WIDTH: 30px
+}
+#FriendsTop TR TD.t2 {
+	WIDTH: 40px
+}
+#FriendsTop TR TD.t3 {
+	WIDTH: 150px
+}
+#FriendsTop TR TD.t5 {
+	WIDTH: 100px; TEXT-ALIGN: center
+}
+#Friends TR TD {
+	BORDER-BOTTOM: #eee 1px solid; HEIGHT: 39px
+}
+#Friends TR TD.t1 {
+	WIDTH: 30px; TEXT-ALIGN: center
+}
+#Friends TR TD.t2 {
+	PADDING-RIGHT: 7px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; VERTICAL-ALIGN: middle; WIDTH: 40px; PADDING-TOP: 3px; TEXT-ALIGN: right
+}
+#Friends TR TD.t3 {
+	WIDTH: 150px
+}
+#Friends TR TD.t3 A {
+	COLOR: #104369
+}
+#Friends TR TD.t3 A:hover {
+	COLOR: #3488c3
+}
+#Friends TR TD.t3 .time {
+	FONT-SIZE: 11px; COLOR: #666
+}
+#Friends TR TD.t4 A {
+	FONT-WEIGHT: 600; COLOR: #104369
+}
+#Friends TR TD.t4 A:hover {
+	COLOR: #3488c3
+}
+#Friends TR TD.t5 {
+	WIDTH: 100px; TEXT-ALIGN: center
+}
+#MessagesTop TR TD.t1 {
+	WIDTH: 30px
+}
+#CommentsTop TR TD.t1 {
+	WIDTH: 30px
+}
+#AlbumCommentsTop TR TD.t1 {
+	WIDTH: 30px
+}
+#TrackBackTop TR TD.t1 {
+	WIDTH: 30px
+}
+#Diggstop TR TD.t1 {
+	WIDTH: 30px
+}
+#MessagesTop TR TD.t3 {
+	WIDTH: 90px; TEXT-ALIGN: center
+}
+#CommentsTop TR TD.t3 {
+	WIDTH: 90px; TEXT-ALIGN: center
+}
+#AlbumCommentsTop TR TD.t3 {
+	WIDTH: 90px; TEXT-ALIGN: center
+}
+#TrackBackTop TR TD.t3 {
+	WIDTH: 90px; TEXT-ALIGN: center
+}
+#Diggstop TR TD.t3 {
+	WIDTH: 90px; TEXT-ALIGN: center
+}
+#MessagesTop TR TD.t4 {
+	WIDTH: 100px; TEXT-ALIGN: center
+}
+#CommentsTop TR TD.t4 {
+	WIDTH: 100px; TEXT-ALIGN: center
+}
+#AlbumCommentsTop TR TD.t4 {
+	WIDTH: 100px; TEXT-ALIGN: center
+}
+#TrackBackTop TR TD.t4 {
+	WIDTH: 100px; TEXT-ALIGN: center
+}
+#Diggstop TR TD.t4 {
+	WIDTH: 100px; TEXT-ALIGN: center
+}
+#Messages TR TD {
+	BORDER-BOTTOM: #eee 1px solid; HEIGHT: 39px
+}
+#Comments TR TD {
+	BORDER-BOTTOM: #eee 1px solid; HEIGHT: 39px
+}
+#AlbumComments TR TD {
+	BORDER-BOTTOM: #eee 1px solid; HEIGHT: 39px
+}
+#TrackBack TR TD {
+	BORDER-BOTTOM: #eee 1px solid; HEIGHT: 39px
+}
+#Diggs TR TD {
+	BORDER-BOTTOM: #eee 1px solid; HEIGHT: 39px
+}
+#Messages TR TD.t1 {
+	WIDTH: 30px; TEXT-ALIGN: center
+}
+#Comments TR TD.t1 {
+	WIDTH: 30px; TEXT-ALIGN: center
+}
+#AlbumComments TR TD.t1 {
+	WIDTH: 30px; TEXT-ALIGN: center
+}
+#TrackBack TR TD.t1 {
+	WIDTH: 30px; TEXT-ALIGN: center
+}
+#Diggs TR TD.t1 {
+	WIDTH: 30px; TEXT-ALIGN: center
+}
+#Messages TR TD.t2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#Comments TR TD.t2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#AlbumComments TR TD.t2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#TrackBack TR TD.t2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#Diggs TR TD.t2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#Messages TR TD.t2 A {
+	FONT-WEIGHT: 600; COLOR: #104369
+}
+#Comments TR TD.t2 A {
+	FONT-WEIGHT: 600; COLOR: #104369
+}
+#AlbumComments TR TD.t2 A {
+	FONT-WEIGHT: 600; COLOR: #104369
+}
+#TrackBack TR TD.t2 A {
+	FONT-WEIGHT: 600; COLOR: #104369
+}
+#Diggs TR TD.t2 A {
+	FONT-WEIGHT: 600; COLOR: #104369
+}
+#Messages TR TD.t2 A:hover {
+	COLOR: #3488c3
+}
+#Comments TR TD.t2 A:hover {
+	COLOR: #3488c3
+}
+#AlbumComments TR TD.t2 A:hover {
+	COLOR: #3488c3
+}
+#TrackBack TR TD.t2 A:hover {
+	COLOR: #3488c3
+}
+#Diggs TR TD.t2 A:hover {
+	COLOR: #3488c3
+}
+#Messages TR TD.t2 .message_user {
+	COLOR: #096
+}
+#Comments TR TD.t2 .message_user {
+	COLOR: #096
+}
+#AlbumComments TR TD.t2 .message_user {
+	COLOR: #096
+}
+#TrackBack TR TD.t2 .message_user {
+	COLOR: #096
+}
+#Diggs TR TD.t2 .message_user {
+	COLOR: #096
+}
+#Messages TR TD.t2 .message_user STRONG {
+	FONT-WEIGHT: 400; COLOR: #f00
+}
+#Comments TR TD.t2 .message_user STRONG {
+	FONT-WEIGHT: 400; COLOR: #f00
+}
+#AlbumComments TR TD.t2 .message_user STRONG {
+	FONT-WEIGHT: 400; COLOR: #f00
+}
+#TrackBack TR TD.t2 .message_user STRONG {
+	FONT-WEIGHT: 400; COLOR: #f00
+}
+#Diggs TR TD.t2 .message_user STRONG {
+	FONT-WEIGHT: 400; COLOR: #f00
+}
+#Messages TR TD.t2 .time {
+	DISPLAY: inline; FONT-SIZE: 11px; COLOR: #666
+}
+#Comments TR TD.t2 .time {
+	DISPLAY: inline; FONT-SIZE: 11px; COLOR: #666
+}
+#AlbumComments TR TD.t2 .time {
+	DISPLAY: inline; FONT-SIZE: 11px; COLOR: #666
+}
+#TrackBack TR TD.t2 .time {
+	DISPLAY: inline; FONT-SIZE: 11px; COLOR: #666
+}
+#Diggs TR TD.t2 .time {
+	DISPLAY: inline; FONT-SIZE: 11px; COLOR: #666
+}
+#Messages TR TD.t3 {
+	FONT-SIZE: 11px; WIDTH: 90px; COLOR: #333
+}
+#Comments TR TD.t3 {
+	FONT-SIZE: 11px; WIDTH: 90px; COLOR: #333
+}
+#AlbumComments TR TD.t3 {
+	FONT-SIZE: 11px; WIDTH: 90px; COLOR: #333
+}
+#TrackBack TR TD.t3 {
+	FONT-SIZE: 11px; WIDTH: 90px; COLOR: #333
+}
+#Diggs TR TD.t3 {
+	FONT-SIZE: 11px; WIDTH: 90px; COLOR: #333
+}
+#Messages TR TD.t4 {
+	WIDTH: 100px; TEXT-ALIGN: center
+}
+#Comments TR TD.t4 {
+	WIDTH: 100px; TEXT-ALIGN: center
+}
+#AlbumComments TR TD.t4 {
+	WIDTH: 100px; TEXT-ALIGN: center
+}
+#TrackBack TR TD.t4 {
+	WIDTH: 100px; TEXT-ALIGN: center
+}
+#Diggs TR TD.t4 {
+	WIDTH: 100px; TEXT-ALIGN: center
+}
+#Diggstop TR TD.t3 {
+	TEXT-ALIGN: left
+}
+#CodesTop TR TD.t1 {
+	WIDTH: 50px
+}
+#Codes TR TD {
+	BORDER-BOTTOM: #eee 1px solid; HEIGHT: 39px
+}
+#Codes TR TD.t1 {
+	WIDTH: 50px; TEXT-ALIGN: center
+}
+#Codes TR TD.t2 INPUT.codes {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; FONT-SIZE: 12px; BACKGROUND: #fff; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none; FONT-FAMILY: verdana,tahoma,Arial black,Arial,Helvetica,sans-serif
+}
+#Codes TR TD.t2 INPUT#copy {
+	VERTICAL-ALIGN: -2px; HEIGHT: 20px
+}
+#M_teamTop TR TD.t1 {
+	WIDTH: 40px
+}
+#M_teamTop TR TD.t3 {
+	WIDTH: 120px
+}
+#M_team TR TD {
+	BORDER-BOTTOM: #eee 1px solid; HEIGHT: 30px
+}
+#M_team TR TD.t1 {
+	WIDTH: 40px; COLOR: #999; FONT-FAMILY: Arial Black,Helvetica,sans-serif; TEXT-ALIGN: center
+}
+#M_team TR TD.t2 {
+	COLOR: #096
+}
+#M_team TR TD.t3 {
+	WIDTH: 120px
+}
+#J_teamTop TR TD.t1 {
+	WIDTH: 40px
+}
+#J_teamTop TR TD.t3 {
+	WIDTH: 120px
+}
+#J_teamTop TR TD.t4 {
+	WIDTH: 120px
+}
+#J_team TR TD {
+	BORDER-BOTTOM: #eee 1px solid; HEIGHT: 30px
+}
+#J_team TR TD.t1 {
+	WIDTH: 40px; COLOR: #999; FONT-FAMILY: Arial Black,Helvetica,sans-serif; TEXT-ALIGN: center
+}
+#J_team TR TD.t2 {
+	COLOR: #096
+}
+#J_team TR TD.t3 {
+	WIDTH: 120px
+}
+#J_team TR TD.t4 {
+	WIDTH: 120px
+}
+#SubjectTop TR TD.t1 {
+	WIDTH: 33px
+}
+#SubjectTop TR TD.t2 {
+	WIDTH: 345px
+}
+#Subject {
+	WIDTH: 100%; BORDER-COLLAPSE: collapse; HEIGHT: 100%
+}
+#Subject TBODY TR TD.t1 {
+	VERTICAL-ALIGN: top; WIDTH: 30px
+}
+#Subject TBODY TR TD.t1 DIV {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 8px; FONT-SIZE: 16px; PADDING-BOTTOM: 0px; COLOR: #999; PADDING-TOP: 2px; BORDER-BOTTOM: #dedede 1px solid; FONT-FAMILY: Arial Black,Helvetica,sans-serif; HEIGHT: 27px
+}
+#Subject TBODY TR TD.t2 .dbx-group {
+	HEIGHT: 100%
+}
+#Subject TBODY TR TD.t2 .dbx-handle {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 8px; PADDING-BOTTOM: 0px; OVERFLOW: hidden; CURSOR: move; PADDING-TOP: 6px; BORDER-BOTTOM: #dedede 1px solid; WHITE-SPACE: nowrap; HEIGHT: 27px; TEXT-OVERFLOW: ellipsis
+}
+#Subject TBODY TR TD.t2 .dbx-handle UL {
+	
+}
+#Subject TBODY TR TD.t2 .dbx-handle UL LI {
+	FLOAT: left
+}
+#Subject TBODY TR TD.t2 .dbx-handle UL LI.l1 {
+	WIDTH: 330px
+}
+#Subject TBODY TR TD.t2 .dbx-handle UL LI.l1 A {
+	FONT-WEIGHT: 600; COLOR: #115888
+}
+#Subject TBODY TR TD.t2 .dbx-clone {
+	BORDER-RIGHT: #f00 1px dashed; PADDING-RIGHT: 2px; BORDER-TOP: #f00 1px dashed; PADDING-LEFT: 2px; BACKGROUND: #fffff0; PADDING-BOTTOM: 2px; BORDER-LEFT: #f00 1px dashed; PADDING-TOP: 2px; BORDER-BOTTOM: #f00 1px dashed
+}
+#TableBody TFOOT.SubjectBottom {
+	BACKGROUND: #dae5ef
+}
+#TableBody TFOOT.SubjectBottom TR TD {
+	PADDING-RIGHT: 0px; BORDER-TOP: #83b5cd 1px solid; PADDING-LEFT: 10px; PADDING-BOTTOM: 0px; PADDING-TOP: 2px
+}
+#PmManageTop TR TD.t1 {
+	WIDTH: 30px
+}
+#FeedTop TR TD.t1 {
+	WIDTH: 30px
+}
+#PmManageTop TR TD.t3 {
+	WIDTH: 100px; TEXT-ALIGN: center
+}
+#FeedTop TR TD.t3 {
+	WIDTH: 100px; TEXT-ALIGN: center
+}
+#PmManage TR TD {
+	BORDER-BOTTOM: #eee 1px solid; HEIGHT: 39px
+}
+#Feed TR TD {
+	BORDER-BOTTOM: #eee 1px solid; HEIGHT: 39px
+}
+#PmManage TR TD.t1 {
+	WIDTH: 30px; TEXT-ALIGN: center
+}
+#Feed TR TD.t1 {
+	WIDTH: 30px; TEXT-ALIGN: center
+}
+#PmManage TR TD.t2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#Feed TR TD.t2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#PmManage TR TD.t2 A {
+	FONT-WEIGHT: 600; COLOR: #104369
+}
+#Feed TR TD.t2 A {
+	FONT-WEIGHT: 600; COLOR: #104369
+}
+#PmManage TR TD.t2 A:hover {
+	COLOR: #3488c3
+}
+#Feed TR TD.t2 A:hover {
+	COLOR: #3488c3
+}
+#PmManage TR TD.t2 .message_user .message_user {
+	COLOR: #096
+}
+#Feed TR TD.t2 .message_user .message_user {
+	COLOR: #096
+}
+#PmManage TR TD.t2 .message_user STRONG {
+	FONT-WEIGHT: 400; COLOR: #f00
+}
+#Feed TR TD.t2 .message_user STRONG {
+	FONT-WEIGHT: 400; COLOR: #f00
+}
+#PmManage TR TD.t2 .time {
+	DISPLAY: inline; FONT-SIZE: 11px; COLOR: #666
+}
+#Feed TR TD.t2 .time {
+	DISPLAY: inline; FONT-SIZE: 11px; COLOR: #666
+}
+#PmManage TR TD.t3 {
+	WIDTH: 100px; TEXT-ALIGN: center
+}
+#Feed TR TD.t3 {
+	WIDTH: 100px; TEXT-ALIGN: center
+}
+#FilesTop TR TD.t1 {
+	WIDTH: 30px
+}
+#FilesTop TR TD.t3 {
+	WIDTH: 70px
+}
+#FilesTop TR TD.t4 {
+	WIDTH: 75px
+}
+#FilesTop TR TD.t5 {
+	WIDTH: 40px
+}
+#Files TR TD {
+	BORDER-BOTTOM: #eee 1px solid; HEIGHT: 22px
+}
+#Files TR TD.t1 {
+	WIDTH: 30px; TEXT-ALIGN: center
+}
+#Files TR TD.t2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#Files TR TD.t2 A {
+	COLOR: #104369
+}
+#Files TR TD.t2 A:hover {
+	COLOR: #3488c3
+}
+#Files TR TD.t3 {
+	FONT-SIZE: 11px; WIDTH: 70px; COLOR: #096
+}
+#Files TR TD.t4 {
+	FONT-SIZE: 11px; WIDTH: 80px; COLOR: #666
+}
+#Files TR TD.t5 {
+	WIDTH: 40px
+}
+#PhotoTop TR TD.t1 {
+	WIDTH: 30px
+}
+#PhotoTop TR TD.t2 {
+	WIDTH: 64px
+}
+#PhotoTop TR TD.t4 {
+	WIDTH: 80px; TEXT-ALIGN: center
+}
+#PhotoTop TR TD.t5 {
+	WIDTH: 60px; TEXT-ALIGN: center
+}
+#Photo TR TD {
+	BORDER-BOTTOM: #eee 1px solid; HEIGHT: 39px
+}
+#Photo TR TD.t1 {
+	WIDTH: 30px; TEXT-ALIGN: center
+}
+#Photo TR TD.t2 {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; VERTICAL-ALIGN: top; WIDTH: 60px; COLOR: #096; PADDING-TOP: 5px; TEXT-ALIGN: right
+}
+#Photo TR TD.t3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#Photo TR TD.t3 A {
+	FONT-WEIGHT: 600; COLOR: #104369
+}
+#Photo TR TD.t3 A:hover {
+	COLOR: #3488c3
+}
+#Photo TR TD.t3 SPAN {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 8px; FONT-SIZE: 11px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#Photo TR TD.t3 .time {
+	DISPLAY: block; FONT-SIZE: 11px; COLOR: #666
+}
+#Photo TR TD.t4 {
+	FONT-SIZE: 11px; WIDTH: 80px; COLOR: #888; TEXT-ALIGN: center
+}
+#Photo TR TD.t5 {
+	WIDTH: 60px
+}
+.template #chk_idAll {
+	OVERFLOW-Y: auto! important
+}
+FIELDSET#Template {
+	
+}
+FIELDSET#Template LEGEND SPAN {
+	FONT-WEIGHT: 400; FONT-SIZE: 12px
+}
+FIELDSET#Template LEGEND SPAN A {
+	COLOR: #f00; TEXT-DECORATION: underline
+}
+#Template UL LI {
+	CLEAR: both
+}
+#Template UL LI#form {
+	CLEAR: both; HEIGHT: 20px
+}
+#Template FORM#sClasses {
+	FLOAT: left
+}
+#Template FORM {
+	FLOAT: right
+}
+#Template .Skin_onmouseover {
+	BACKGROUND: #fffff0
+}
+#Template .Skin_onmouseout {
+	
+}
+#Template UL LI UL {
+	BORDER-RIGHT: #f4f4f4 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #f4f4f4 1px solid; PADDING-LEFT: 5px; BACKGROUND: #fcfcfc; FLOAT: left; PADDING-BOTTOM: 5px; MARGIN: 6px; OVERFLOW: hidden; BORDER-LEFT: #f4f4f4 1px solid; WIDTH: 165px; PADDING-TOP: 5px; BORDER-BOTTOM: #f4f4f4 1px solid; HEIGHT: 180px
+}
+#Template UL LI UL LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 1.5; PADDING-TOP: 0px
+}
+#Template UL LI UL LI.l1 IMG {
+	WIDTH: 150px; HEIGHT: 90px
+}
+#Template UL LI UL LI.l1 A {
+	PADDING-RIGHT: 1px; DISPLAY: block; PADDING-LEFT: 1px; BACKGROUND: url(../images/Template_bg.png) no-repeat left top; PADDING-BOTTOM: 1px; MARGIN: auto; WIDTH: 156px; PADDING-TOP: 1px; HEIGHT: 96px; TEXT-ALIGN: left
+}
+#Template UL LI UL LI.l2 {
+	MARGIN: 3px 0px 0px; OVERFLOW: hidden; WIDTH: 150px; WHITE-SPACE: nowrap; TEXT-OVERFLOW: ellipsis
+}
+#Template UL LI UL LI.l4 {
+	MARGIN: 10px 0px 0px; TEXT-ALIGN: center
+}
+.UserFilesBody {
+	
+}
+.UserFilesBody THEAD TR.thead_tr2 TH.left {
+	BORDER-RIGHT: #83b5cd 1px solid; FLOAT: none; VERTICAL-ALIGN: top; WIDTH: 200px
+}
+.UserFilesBody TBODY TR TD.left {
+	BORDER-RIGHT: #83b5cd 1px solid; FLOAT: none; VERTICAL-ALIGN: top; WIDTH: 200px
+}
+.dogvdvbdy {
+	OVERFLOW: hidden; WIDTH: 190px; HEIGHT: 190px; TEXT-ALIGN: center
+}
+.dogvdvbdy TABLE {
+	BORDER-COLLAPSE: collapse; HEIGHT: 190px
+}
+.UserFilesBody TBODY TR TD.left #viewimg {
+	BORDER-RIGHT: #d7d7d7 5px solid; BORDER-TOP: #d7d7d7 5px solid; Z-INDEX: 10; LEFT: 0px; BORDER-LEFT: #d7d7d7 5px solid; WIDTH: 200px; BORDER-BOTTOM: #d7d7d7 5px solid; POSITION: absolute; TOP: 42px; HEIGHT: 200px
+}
+.UserFilesBody TBODY TR TD.left #content {
+	LEFT: 10px; WIDTH: 180px; POSITION: absolute; TOP: 262px
+}
+.UserFilesBody TBODY TR TD.left IFRAME#d_file {
+	Z-INDEX: 10; LEFT: 2px; WIDTH: 195px; BOTTOM: 5px; POSITION: absolute
+}
+#Help {
+	
+}
+#Help H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 20px; FONT-SIZE: 14px; BACKGROUND: url(../images/ico.gif) no-repeat -1200px -1px; PADDING-BOTTOM: 0px; MARGIN: 30px 10px 8px; COLOR: #115888; PADDING-TOP: 0px; BORDER-BOTTOM: #eee 1px solid; LETTER-SPACING: 1px
+}
+#Help UL {
+	MARGIN: 0px 0px 0px 20px; COLOR: #555
+}
+#Help H3 UL LI {
+	PADDING-RIGHT: 50px; PADDING-LEFT: 50px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+TABLE.Setting {
+	BACKGROUND: #f5fbff
+}
+TABLE.Setting THEAD {
+	HEIGHT: 60px
+}
+TABLE.Setting THEAD TR TH {
+	
+}
+TABLE.Setting THEAD TR TH #TabPage2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; BACKGROUND: url(../images/Setting_TabPage2.png) #b1d0e5 repeat-x left top; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; HEIGHT: 34px
+}
+TABLE.Setting THEAD TR TH #TabPage2 LI {
+	BORDER-RIGHT: medium none; PADDING-RIGHT: 15px; BORDER-TOP: medium none; PADDING-LEFT: 15px; FLOAT: left; PADDING-BOTTOM: 6px; MARGIN: 5px 0px 0px 5px; BORDER-LEFT: medium none; CURSOR: pointer; PADDING-TOP: 8px; BORDER-BOTTOM: medium none
+}
+TABLE.Setting THEAD TR TH #TabPage2 LI.Selected {
+	BORDER-RIGHT: #1a76b7 1px solid; BORDER-TOP: #1a76b7 1px solid; BACKGROUND: url(../images/cierre_pie.gif) #fff no-repeat left top; BORDER-LEFT: #1a76b7 1px solid; BORDER-BOTTOM: medium none
+}
+TABLE.Setting THEAD TR TH #left_menu_cnt {
+	CLEAR: both; BACKGROUND: #fff; BORDER-BOTTOM: #bad6e8 1px solid; HEIGHT: 25px
+}
+TABLE.Setting THEAD TR TH #left_menu_cnt LI {
+	BORDER-RIGHT: #bad6e8 1px solid; PADDING-RIGHT: 15px; PADDING-LEFT: 15px; FLOAT: left; PADDING-BOTTOM: 1px; MARGIN: 4px 0px 0px; PADDING-TOP: 3px
+}
+TABLE.Setting THEAD TR TH #left_menu_cnt LI A {
+	DISPLAY: block; FONT-WEIGHT: 400; COLOR: #165e92
+}
+TABLE.Setting THEAD TR TH #left_menu_cnt LI A:hover {
+	
+}
+TABLE.Setting THEAD TR TH #left_menu_cnt LI.Selected {
+	DISPLAY: block
+}
+TABLE.Setting THEAD TR TH #left_menu_cnt LI.Selected A {
+	FONT-WEIGHT: 600; BORDER-BOTTOM: #165e92 2px solid
+}
+TABLE.Setting THEAD TR TH #left_menu_cnt LI.Selected A:hover {
+	TEXT-DECORATION: none
+}
+TABLE.Setting THEAD TR TH #left_menu_cnt #dleft_tab1 {
+	DISPLAY: none
+}
+TABLE.Setting THEAD TR TH #left_menu_cnt #dleft_tab2 {
+	DISPLAY: none
+}
+TABLE.Setting THEAD TR TH #left_menu_cnt #dleft_tab3 {
+	DISPLAY: none
+}
+TABLE.Setting TBODY TR TD DIV#chk_idAll TABLE.Setting_Content {
+	DISPLAY: block; MARGIN: auto; WIDTH: 96%; BORDER-COLLAPSE: collapse
+}
+TABLE.Setting TBODY TR TD DIV#chk_idAll TABLE.Setting_Content TD {
+	PADDING-RIGHT: 10px; BORDER-TOP: #fff 1px solid; PADDING-LEFT: 10px; PADDING-BOTTOM: 15px; VERTICAL-ALIGN: top; PADDING-TOP: 15px; BORDER-BOTTOM: #deedf8 1px solid
+}
+TABLE.Setting TBODY TR TD DIV#chk_idAll TABLE.Setting_Content TD TD {
+	BORDER-TOP: medium none; VERTICAL-ALIGN: top; BORDER-BOTTOM: medium none
+}
+TABLE.Setting TBODY TR TD DIV#chk_idAll TABLE.Setting_Content TD.title {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-WEIGHT: 600; PADDING-BOTTOM: 18px; WIDTH: 200px; PADDING-TOP: 18px; TEXT-ALIGN: right
+}
+TABLE.Setting TBODY TR TD DIV#chk_idAll TABLE.Setting_Content TD SPAN {
+	DISPLAY: block; COLOR: #698e9e
+}
+TABLE.Setting TBODY TR TD DIV#chk_idAll TABLE.Setting_Content TD INPUT#Submit {
+	HEIGHT: 30px
+}
+TABLE.Setting TBODY TR TD DIV#chk_idAll #dTab11 {
+	TEXT-ALIGN: center
+}
+TABLE.Setting TBODY TR TD DIV#chk_idAll #dTab12 {
+	TEXT-ALIGN: center
+}
+TABLE.Setting TBODY TR TD DIV#chk_idAll #dTab13 {
+	TEXT-ALIGN: center
+}
+TABLE.Setting TBODY TR TD DIV#chk_idAll #dTab14 {
+	TEXT-ALIGN: center
+}
+TABLE.Setting TBODY TR TD DIV#chk_idAll #dTab15 {
+	TEXT-ALIGN: center
+}
+TABLE.Setting TBODY TR TD DIV#chk_idAll #dTab21 {
+	TEXT-ALIGN: center
+}
+TABLE.Setting TBODY TR TD DIV#chk_idAll #dTab22 {
+	TEXT-ALIGN: center
+}
+TABLE.Setting TBODY TR TD DIV#chk_idAll #dTab23 {
+	TEXT-ALIGN: center
+}
+TABLE.Setting TBODY TR TD DIV#chk_idAll #dTab31 {
+	TEXT-ALIGN: center
+}
+TABLE.Setting TBODY TR TD DIV#chk_idAll #dTab32 {
+	TEXT-ALIGN: center
+}
+TABLE.Setting TBODY TR TD DIV#chk_idAll #dTab33 {
+	TEXT-ALIGN: center
+}
+TABLE.Setting TBODY TR TD DIV#chk_idAll #dTab12 #loadedit {
+	DISPLAY: block; FLOAT: left; COLOR: #f00
+}
+TABLE.Setting TBODY TR TD DIV#chk_idAll #dTab13 #loadedit {
+	DISPLAY: block; FLOAT: left; COLOR: #f00
+}
+TABLE.Setting TBODY TR TD DIV#chk_idAll #dTab13 A {
+	COLOR: #165e92; TEXT-DECORATION: underline
+}
+TABLE.Setting TBODY TR TD DIV#chk_idAll #dTab13 A:hover {
+	TEXT-DECORATION: none
+}
+TABLE.Setting TBODY TR TD DIV#chk_idAll #dTab21 TABLE.UserInfo {
+	BORDER-RIGHT: #e2edf5 1px solid; BORDER-TOP: #e2edf5 1px solid; BACKGROUND: #e4f4fc; MARGIN: 15px auto; BORDER-LEFT: #e2edf5 1px solid; WIDTH: 96%; BORDER-BOTTOM: #e2edf5 1px solid
+}
+TABLE.Setting TBODY TR TD DIV#chk_idAll #dTab21 TABLE.UserInfo TD {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; BACKGROUND: #fff; PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+TABLE.Setting TBODY TR TD DIV#chk_idAll #dTab21 TABLE.UserInfo TD A {
+	COLOR: #1b72a0
+}
+TABLE.Setting TBODY TR TD DIV#chk_idAll #dTab21 TABLE.UserInfo TD P {
+	MARGIN: 0px
+}
+TABLE.Setting TBODY TR TD DIV#chk_idAll #dTab21 TABLE.UserInfo TD.title {
+	BORDER-RIGHT: #fff 1px solid; BORDER-TOP: #fff 1px solid; FONT-SIZE: 12px; BACKGROUND: #f5fbff; BORDER-LEFT: #fff 1px solid; WIDTH: 80px; COLOR: #666; BORDER-BOTTOM: #fff 1px solid; LETTER-SPACING: 2px; TEXT-ALIGN: right
+}
+TABLE.Setting TBODY TR TD DIV#chk_idAll #dTab21 TABLE.UserInfo TD .user_face SPAN {
+	PADDING-RIGHT: 1px; DISPLAY: block; PADDING-LEFT: 1px; BACKGROUND: url(../images/UserIco_bg.png) no-repeat left top; FLOAT: left; PADDING-BOTTOM: 1px; MARGIN: 0px 25px 0px 8px; WIDTH: 56px; PADDING-TOP: 1px; HEIGHT: 56px
+}
+TABLE.Setting TBODY TR TD DIV#chk_idAll #dTab21 TABLE.UserInfo TD .user_face SPAN IMG {
+	WIDTH: 48px; HEIGHT: 48px
+}
+TABLE.Setting TBODY TR TD DIV#chk_idAll #dTab21 TABLE.UserInfo TD INPUT#Submit {
+	MARGIN: 10px; LETTER-SPACING: 6px; HEIGHT: 30px
+}
+TABLE.Setting TBODY TR TD #dTab31 {
+	HEIGHT: 100%
+}
+TABLE.Setting TBODY TR TD #dTab31 .FrmID {
+	WIDTH: 100%; HEIGHT: 100%
+}
+TABLE.Setting TBODY TR TD DIV#chk_idAll .btu {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 10px; PADDING-BOTTOM: 0px; PADDING-TOP: 7px; HEIGHT: 40px
+}
+TABLE.Setting TBODY TR TD DIV#chk_idAll .btu SPAN {
+	DISPLAY: block; BACKGROUND: url(../images/user_btu_left.png) no-repeat left top; FLOAT: left; MARGIN: 0px 15px 0px 0px
+}
+TABLE.Setting TBODY TR TD DIV#chk_idAll .btu SPAN A {
+	PADDING-RIGHT: 10px; DISPLAY: block; PADDING-LEFT: 10px; BACKGROUND: url(../images/user_btu_right.png) no-repeat right top; PADDING-BOTTOM: 4px; COLOR: #104369; PADDING-TOP: 6px
+}
+TABLE.Setting TBODY TR TD DIV#chk_idAll .btu DIV {
+	VERTICAL-ALIGN: bottom
+}
+TABLE.Setting TBODY TR TD DIV#chk_idAll .btu DIV A {
+	COLOR: #165e92; TEXT-DECORATION: underline
+}
+TABLE.Setting TBODY TR TD DIV#chk_idAll .btu DIV A:hover {
+	TEXT-DECORATION: none
+}
+#Friendurl {
+	BORDER-TOP: #bad6e8 1px solid; BACKGROUND: #fff
+}
+#Friendurl TR TD {
+	BORDER-BOTTOM: #eee 1px solid; HEIGHT: 36px
+}
+#Friendurl TR TD.t1 {
+	FONT-WEIGHT: 600; FONT-SIZE: 14px; WIDTH: 30px; COLOR: #666; FONT-FAMILY: verdana,tahoma,Arial,Helvetica,sans-serif; TEXT-ALIGN: center
+}
+#Friendurl TR TD.t2 {
+	FONT-SIZE: 11px; WIDTH: 100px; COLOR: #333; TEXT-ALIGN: center
+}
+#Friendurl TR TD.t2 IMG {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; MARGIN: 3px 0px 0px; BORDER-LEFT: 0px; WIDTH: 88px; BORDER-BOTTOM: 0px; HEIGHT: 31px
+}
+#Friendurl TR TD.t3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#Friendurl TR TD.t3 A {
+	FONT-WEIGHT: 600; COLOR: #104369
+}
+#Friendurl TR TD.t3 A:hover {
+	COLOR: #3488c3
+}
+#Friendurl TR TD.t3 .url {
+	FONT-SIZE: 11px; COLOR: #666
+}
+#Friendurl TR TD.t4 {
+	WIDTH: 130px; TEXT-ALIGN: center
+}
+#GroupListTop TR TD.t1 {
+	WIDTH: 14px
+}
+#GroupList TR TD {
+	BORDER-BOTTOM: #eee 1px solid; HEIGHT: 39px
+}
+#GroupList TR TD.ListMembersTdMsg {
+	BORDER-BOTTOM: medium none
+}
+#GroupList TR TD.t1 {
+	WIDTH: 10px
+}
+#GroupList TR TD.t2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#GroupList TR TD.t2 A {
+	COLOR: #104369
+}
+#GroupList TR TD.t2 A:hover {
+	COLOR: #3488c3
+}
+#GroupList TR TD.t2 SPAN A {
+	FONT-WEIGHT: 600
+}
+#GroupList TR TD.t3 {
+	WIDTH: 230px
+}
+#GroupList TR TD.t3 A {
+	FONT-WEIGHT: 400; COLOR: #096; TEXT-DECORATION: underline
+}
+#GroupList TR TD.t3 A:hover {
+	TEXT-DECORATION: none
+}
+#GroupList TR TD.t3 .time {
+	FONT-SIZE: 11px; COLOR: #666
+}
+#ListManageTeamTop TR TD.t1 {
+	WIDTH: 30px
+}
+#ListManageTeamTop TR TD.t2 {
+	WIDTH: 54px
+}
+#ListManageTeamTop TR TD.t4 {
+	WIDTH: 80px
+}
+#ListManageTeamTop TR TD.t5 {
+	WIDTH: 80px
+}
+#ListManageTeamTop TR TD.t6 {
+	WIDTH: 60px
+}
+#ListManageTeam TR TD {
+	BORDER-BOTTOM: #eee 1px solid; HEIGHT: 39px
+}
+#ListManageTeam TR TD.t1 {
+	FONT-WEIGHT: 600; FONT-SIZE: 16px; WIDTH: 30px; COLOR: #777; FONT-FAMILY: Century Gothic,verdana,tahoma,Arial,Helvetica,sans-serif; TEXT-ALIGN: center
+}
+#ListManageTeam TR TD.t2 {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; WIDTH: 50px; PADDING-TOP: 5px; TEXT-ALIGN: right
+}
+#ListManageTeam TR TD.t2 IMG {
+	WIDTH: 40px; HEIGHT: 30px
+}
+#ListManageTeam TR TD.t3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#ListManageTeam TR TD.t3 A {
+	FONT-WEIGHT: 600; COLOR: #104369
+}
+#ListManageTeam TR TD.t3 A:hover {
+	COLOR: #3488c3
+}
+#ListManageTeam TR TD.t3 SPAN {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 8px; FONT-SIZE: 11px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#ListManageTeam TR TD.t3 .time {
+	DISPLAY: block; FONT-SIZE: 11px; COLOR: #666
+}
+#ListManageTeam TR TD.t4 {
+	FONT-SIZE: 11px; WIDTH: 80px; COLOR: #888
+}
+#ListManageTeam TR TD.t5 {
+	FONT-SIZE: 11px; WIDTH: 80px; COLOR: #888
+}
+#ListManageTeam TR TD.t6 {
+	WIDTH: 60px
+}
+#ListMembersTop TR TD.t1 {
+	WIDTH: 30px
+}
+#ListMembersTop TR TD.t3 {
+	WIDTH: 98px
+}
+#ListMembersTop TR TD.t4 {
+	WIDTH: 118px
+}
+#ListMembers TR TD {
+	BORDER-BOTTOM: #eee 1px solid; HEIGHT: 39px
+}
+#ListMembers TR TD.ListMembersTdMsg {
+	BORDER-BOTTOM: medium none
+}
+#ListMembers TR TD.t1 {
+	FONT-WEIGHT: 600; FONT-SIZE: 16px; WIDTH: 30px; COLOR: #777; FONT-FAMILY: Century Gothic,verdana,tahoma,Arial,Helvetica,sans-serif; TEXT-ALIGN: center
+}
+#ListMembers TR TD.t2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#ListMembers TR TD.t2 A {
+	FONT-WEIGHT: 600; COLOR: #104369
+}
+#ListMembers TR TD.t2 A:hover {
+	COLOR: #3488c3
+}
+#ListMembers TR TD.t2 DIV A {
+	FONT-WEIGHT: 400; COLOR: #096; TEXT-DECORATION: underline
+}
+#ListMembers TR TD.t2 DIV A:hover {
+	TEXT-DECORATION: none
+}
+#ListMembers TR TD.t2 SPAN {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 8px; FONT-SIZE: 11px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#ListMembers TR TD.t2 .time {
+	FONT-SIZE: 11px; COLOR: #666
+}
+#ListMembers TR TD.t3 {
+	WIDTH: 100px; COLOR: #f00
+}
+#ListMembers TR TD.t4 {
+	WIDTH: 120px
+}
+#NewTeam {
+	TEXT-ALIGN: center
+}
+#NewTeam TABLE {
+	MARGIN: 20px 0px; WIDTH: 96%; BORDER-COLLAPSE: collapse
+}
+#NewTeam TABLE {
+	TEXT-ALIGN: left
+}
+#NewTeam TABLE TR TD {
+	PADDING-RIGHT: 10px; BORDER-TOP: #efefef 1px solid; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px
+}
+#NewTeam TABLE TR TD #Submit {
+	HEIGHT: 30px
+}
+#NewTeam TABLE TR TD.title {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: 600; PADDING-BOTTOM: 0px; VERTICAL-ALIGN: top; WIDTH: 140px; PADDING-TOP: 18px; TEXT-ALIGN: right
+}
+.TeamContent {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; WIDTH: 100%; BORDER-BOTTOM: 0px; BORDER-COLLAPSE: collapse; HEIGHT: 100%
+}
+.TeamContent .t2 {
+	WIDTH: 129px
+}
+.TeamContent .t2 #teamadmin_top {
+	BACKGROUND: #f5fbff; FLOAT: right; BORDER-LEFT: #1d78b8 1px solid; WIDTH: 129px; HEIGHT: 100%
+}
+.TeamContent .t2 #teamadmin_top LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(../images/user_team_bg.png) no-repeat center bottom; PADDING-BOTTOM: 6px; PADDING-TOP: 5px
+}
+.TeamContent .t2 #teamadmin_top LI A {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 20px; PADDING-BOTTOM: 4px; COLOR: #104369; PADDING-TOP: 4px
+}
+.TeamContent .t2 #teamadmin_top LI A:hover {
+	COLOR: #1b76b7; TEXT-DECORATION: underline
+}
+.TeamContent .t2 #teamadmin_top LI.Selected A {
+	BORDER-RIGHT: #1d78b8 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #1d78b8 1px solid; DISPLAY: block; PADDING-LEFT: 20px; FONT-WEIGHT: 600; Z-INDEX: 10; BACKGROUND: #fff; LEFT: -1px; PADDING-BOTTOM: 4px; MARGIN: 0px 10px 0px 0px; BORDER-LEFT: medium none; PADDING-TOP: 4px; BORDER-BOTTOM: #1d78b8 1px solid; POSITION: relative; TOP: 0px
+}
+.TeamContent .t1 {
+	TEXT-ALIGN: center
+}
+.TeamContent .t1 DIV#chk_idAll {
+	OVERFLOW-Y: auto; OVERFLOW-X: hidden; HEIGHT: 100%
+}
+.TeamContent .TeamInfo {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; MARGIN: 15px auto; BORDER-LEFT: 0px; WIDTH: 96%; BORDER-BOTTOM: 0px; BORDER-COLLAPSE: collapse
+}
+.TeamContent .TeamInfo TD {
+	PADDING-RIGHT: 10px; BORDER-TOP: #fff 1px solid; PADDING-LEFT: 10px; PADDING-BOTTOM: 15px; VERTICAL-ALIGN: top; PADDING-TOP: 15px; BORDER-BOTTOM: #deedf8 1px solid
+}
+.TeamContent .TeamInfo TD TD {
+	BORDER-TOP: medium none; BORDER-BOTTOM: medium none
+}
+.TeamContent .TeamInfo STRONG {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; FONT-WEIGHT: 600; FONT-SIZE: 18px; PADDING-BOTTOM: 5px; MARGIN: 0px 0px 10px; COLOR: #333; PADDING-TOP: 0px; BORDER-BOTTOM: #115888 2px dashed
+}
+.TeamContent .TeamInfo .title {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-WEIGHT: 600; PADDING-BOTTOM: 18px; WIDTH: 120px; PADDING-TOP: 18px; TEXT-ALIGN: right
+}
+.TeamContent .TeamInfo TD INPUT#Submit {
+	MARGIN: 10px; LETTER-SPACING: 6px; HEIGHT: 30px
+}
+.TeamContent #TeamListUserTop {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(../images/content_l5U_top.png) #f1f6f9 repeat-x left bottom; PADDING-BOTTOM: 0px; WIDTH: 100%; LINE-HEIGHT: 10px; PADDING-TOP: 3px; BORDER-BOTTOM: #83b5cd 1px solid
+}
+.TeamContent #TeamListUserTop TR TD.scroll {
+	VISIBILITY: hidden; WIDTH: 14px
+}
+TABLE.TableList {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; WIDTH: 100%; BORDER-BOTTOM: 0px; BORDER-COLLAPSE: collapse
+}
+.TeamContent #TeamListUserTop TR TD.t1 {
+	WIDTH: 30px
+}
+.TeamContent #TeamListUserTop TR TD.t3 {
+	WIDTH: 98px
+}
+.TeamContent #TeamListUserTop TR TD.t4 {
+	WIDTH: 118px
+}
+#TeamListUser {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; WIDTH: 100%; BORDER-BOTTOM: 0px; BORDER-COLLAPSE: collapse
+}
+#TeamListUser TR TD {
+	BORDER-BOTTOM: #eee 1px solid; HEIGHT: 39px
+}
+#TeamListUser TR TD.ListMembersTdMsg {
+	BORDER-BOTTOM: medium none
+}
+#TeamListUser TR TD.t1 {
+	FONT-WEIGHT: 600; FONT-SIZE: 16px; WIDTH: 30px; COLOR: #777; FONT-FAMILY: Century Gothic,verdana,tahoma,Arial,Helvetica,sans-serif; TEXT-ALIGN: center
+}
+#TeamListUser TR TD.t2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#TeamListUser TR TD.t2 A {
+	FONT-WEIGHT: 600; COLOR: #104369
+}
+#TeamListUser TR TD.t2 A:hover {
+	COLOR: #3488c3
+}
+#TeamListUser TR TD.t3 {
+	WIDTH: 100px
+}
+#TeamListUser TR TD.t4 {
+	WIDTH: 120px
+}
+.user_prompt {
+	BORDER-RIGHT: #448ec1 1px solid; BORDER-TOP: #448ec1 1px solid; MARGIN: 20px; BORDER-LEFT: #448ec1 1px solid; WIDTH: 400px; BORDER-BOTTOM: #448ec1 1px solid
+}
+.user_prompt {
+	BORDER-RIGHT: #448ec1 1px solid; BORDER-TOP: #448ec1 1px solid; BACKGROUND: #e4f4fc; MARGIN: 20px 0px; BORDER-LEFT: #448ec1 1px solid; WIDTH: 50%; BORDER-BOTTOM: #448ec1 1px solid
+}
+.user_prompt .user_prompt_top {
+	FONT-WEIGHT: 900; BACKGROUND: url(../images/win_top.png) repeat-x left top; COLOR: white; TEXT-ALIGN: left
+}
+.user_prompt TD {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; BACKGROUND: #fff; PADDING-BOTTOM: 5px; COLOR: #f00; PADDING-TOP: 5px
+}
+.user_prompt .user_prompt_td {
+	BORDER-RIGHT: #fff 1px solid; BORDER-TOP: #fff 1px solid; FONT-WEIGHT: 900; BACKGROUND: #f5fbff; BORDER-LEFT: #fff 1px solid; WIDTH: 20%; COLOR: #333; BORDER-BOTTOM: #fff 1px solid; TEXT-ALIGN: right
+}
