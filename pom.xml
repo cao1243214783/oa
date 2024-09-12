@@ -247,9 +247,6 @@
 			<version>3.16</version>
 		</dependency>
 		<!-- tomcat7.0.35 数据库连接池 -->
-		<!-- tomcat7.0.35 数据库连接池 -->
-		<!-- tomcat7.0.35 数据库连接池 -->
-		<!-- tomcat7.0.35 数据库连接池 -->
 		<dependency>
 			<groupId>org.apache.tomcat</groupId>
 			<artifactId>tomcat-dbcp</artifactId>
